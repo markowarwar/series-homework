@@ -1,3 +1,5 @@
+מרקו ורור 323912766 , קאסוורה אגבאריה325969665
+
 series-homework
 
 My homework for SeriesHub, a TV series site. I wrote JavaScript functions that read JSON data, use array methods, and update data without changing the original. I also fixed three bugs from a coworker.
